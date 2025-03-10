@@ -42,7 +42,7 @@ This project provides a step-by-step guide to setting up and securing a Linux se
 
 ```sh
 git clone https://github.com/jobdm/linux-server-hardening.git
-cd linux-server-hardening
+cd linux-server-hardening/setup-scripts
 ```
 
 <h3>2️⃣ Run the setup script</h3>
